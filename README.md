@@ -1,23 +1,21 @@
 <!-- ------------- HEADER ------------- -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=32&color=FF69B4&center=true&vCenter=true&width=550&lines=Hey+%F0%9F%91%8B%2C+I'm+Saloni+Garg!;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%94%8E;DSA+Enthusiast+%F0%9F%94%A5;UI%2FUX+Lover+%F0%9F%8E%A8" />
-</h1>
+
+<h1 align="center">Hi, I'm <span style="color:#FF69B4;">Saloni Garg</span> 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=F06292&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;DSA+Enthusiast;UI%2FUX+Design+Learner;Passionate+about+Building+Impactful+Projects;Learning+%26+Growing+Every+Day" />
 </p>
 
 <p align="center">
-✨ Welcome to my GitHub! I love creating beautiful UIs, solving DSA problems, and crafting applications with ❤️  
+Welcome to my GitHub! Here you’ll find the projects I’m building as I grow as a full-stack developer — blending clean UI design, problem-solving, and a passion for creating meaningful, real-world solutions.
 </p>
 
----
 
 <!-- ------------- SOCIALS ------------- -->
 ## 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/salonigarg1">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -77,7 +75,5 @@
 <!-- ------------- FOOTER ------------- -->
 <h2 align="center">💖 Thanks for visiting my profile! 💖</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZibDNsbXJzbnU4YWxxYWcyaHhqdDUxMTI4d29vbnYzNDYwMnR1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" width="200">
-</p>
+
 
