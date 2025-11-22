@@ -15,7 +15,7 @@ Welcome to my GitHub! Here you’ll find the projects I’m building as I grow a
 <!-- ------------- SOCIALS ------------- -->
 ## 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/salonigarg1">
+  <a href="https://www.linkedin.com/in/salonigarg13">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
