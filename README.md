@@ -32,19 +32,12 @@ Welcome to my GitHub! Here you’ll find the projects I’m building as I grow a
 ---
 
 <!-- ------------- GITHUB STATS ------------- -->
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
-<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salonigarg1328&show_icons=true&theme=radical&count_private=true&v=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=salonigarg1328&theme=radical&v=1)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salonigarg1328&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salonigarg1328&layout=compact&theme=radical&v=1)
-
-</p>
-
----
 
 <!-- ------------- LEETCODE STATS ------------- -->
 ## 🧩 **LeetCode Stats**
