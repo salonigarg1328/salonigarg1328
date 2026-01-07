@@ -34,15 +34,15 @@ Welcome to my GitHub! Here you’ll find the projects I’m building as I grow a
 <!-- ------------- GITHUB STATS ------------- -->
 ## 📊 **GitHub Stats**
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salonigarg1328&show_icons=true&theme=radical&hide_border=false&border_radius=15" width="55%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salonigarg1328&show_icons=true&theme=radical&count_private=true&v=1)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonigarg1328&theme=radical&hide_border=false&border_radius=15" width="55%" />
+![GitHub Streak](https://streak-stats.demolab.com?user=salonigarg1328&theme=radical&v=1)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonigarg1328&layout=compact&theme=radical&hide_border=false&border_radius=15" width="50%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salonigarg1328&layout=compact&theme=radical&v=1)
 
-</div>
+</p>
 
 ---
 
